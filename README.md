@@ -1,5 +1,14 @@
 # My Bookmarks
  The web is a jungle!
+ 
+### General
+ 
+#### Articles
+- [x] [Why Learning to Code is So Damn Hard](https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+      What every beginner absolutely needs to know about the journey ahead
+
+- [X] [Learning How to Learn: The Most Important Developer Skill](https://medium.freecodecamp.com/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d#.kj6ebq7nj)
+      
 
 ### Python
 
@@ -64,5 +73,4 @@
 
 - [JSbooks](http://jsbooks.revolunet.com/)
   The best free JavaScript resources
-
 
