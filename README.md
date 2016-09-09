@@ -41,7 +41,9 @@
 
 - [ ] [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide?utm_source=javascriptweekly&utm_medium=email)
       
+#### Videos
 
+- [X] [Understanding create-react-app](https://www.youtube.com/watch?v=wLgHjZM4pWM)
 
 ### Frontend
 
