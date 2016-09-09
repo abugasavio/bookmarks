@@ -23,8 +23,12 @@
 
 - [ ] Dockerizing a Python Django Web Application
 
-
 ### JavaScript
+
+#### Articles & Tutorials
+
+- [ ] [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
+      An article that discusses some best practices to follow for writing efficient, understandable JavaScript.
 
 
 ### Node
@@ -33,6 +37,9 @@
 
 - [ ] [Learn Node.js](https://hyperdev.com/help/learn-node-js-free-beginner-course)
       A free interactive course for Node beginners
+      
+- [ ] [Arrow Functions](http://wesbos.com/arrow-functions)
+      An introduction to JavaScript Arrow Functions
 
 
 ### React/Redux
