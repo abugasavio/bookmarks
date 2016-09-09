@@ -29,8 +29,18 @@
 
 ### Node
 
+#### Articles & Tutorials
+
+- [ ] [Learn Node.js](https://hyperdev.com/help/learn-node-js-free-beginner-course)
+      A free interactive course for Node beginners
+
 
 ### React/Redux
+
+#### Articles & Tutorials
+
+- [ ] [Routing React Apps: The Complete Guide](https://scotch.io/tutorials/routing-react-apps-the-complete-guide?utm_source=javascriptweekly&utm_medium=email)
+      
 
 
 ### Frontend
