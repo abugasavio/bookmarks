@@ -53,6 +53,9 @@
 #### Courses
 - [es6 with Wes Bos](https://es6.io/) $
 
+#### Audios
+
+- [X] [EmberJS on JavascriptAir](https://javascriptair.com/episodes/2016-04-27/)
 
 ### Node
 
