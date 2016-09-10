@@ -45,7 +45,13 @@
 - [ ] [JavaScript best practices](https://docs.webplatform.org/wiki/tutorials/javascript_best_practices)
       An article that discusses some best practices to follow for writing efficient, understandable JavaScript.
 - [X] [`this` All Makes Sense Now](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
-      You Don't Know JS: Learn all about `this` 
+      You Don't Know JS: Learn all about `this`
+       
+#### Books
+- [] [Programming JavaScript Applications by Eric Elliot](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
+
+#### Courses
+- [es6 with Wes Bos](https://es6.io/) $
 
 
 ### Node
@@ -67,6 +73,10 @@
 #### Videos
 
 - [X] [Understanding create-react-app](https://www.youtube.com/watch?v=wLgHjZM4pWM)
+
+#### Resources
+
+- [Awesome React Components](https://github.com/brillout/awesome-react-components)
 
 ### Frontend
 
