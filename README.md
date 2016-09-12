@@ -57,9 +57,10 @@
 - [es6 with Wes Bos](https://es6.io/) $
 
 #### Audios
-
 - [X] [EmberJS on JavascriptAir](https://javascriptair.com/episodes/2016-04-27/)
 
+#### Videos
+- [X] [Debugging JavaScript - 0 to Heisenberg](https://www.youtube.com/watch?v=-q1z8BPFItw)
 ### Node
 
 #### Articles & Tutorials
