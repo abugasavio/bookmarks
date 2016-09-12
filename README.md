@@ -47,6 +47,8 @@
 - [X] [`this` All Makes Sense Now](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20%26%20object%20prototypes/ch2.md)
       You Don't Know JS: Learn all about `this`
 - [X] [A dive into plain JavaScript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
+
+- [ ] [Articles by Gerd Wagner](http://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=10718738)
        
 #### Books
 - [] [Programming JavaScript Applications by Eric Elliot](http://chimera.labs.oreilly.com/books/1234000000262/index.html)
