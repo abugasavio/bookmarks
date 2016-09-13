@@ -62,6 +62,7 @@
 #### Videos
 - [X] [Debugging JavaScript - 0 to Heisenberg](https://www.youtube.com/watch?v=-q1z8BPFItw)
 - [ ] [Chrome DevTools: State Of The Union 2015](https://addyosmani.com/blog/chrome-devtools-state-of-the-union-2015/)
+- [X] [Alternative patterns in JS: OLOO style](https://giamir.com/alternative-patterns-in-JS-OLOO-style)
 
 #### Blogs
 - [https://addyosmani.com/blog/](https://addyosmani.com/blog/)
